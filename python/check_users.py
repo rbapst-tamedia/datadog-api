@@ -78,10 +78,10 @@ def get_app_keys(configuration):
      # response = {
      #     'application_keys': [
      #         {
-     #             'hash': '8e3f15a79113174ef2408a06adc20d6f92f28014',
-     #             'name': '20min-Dev Agent Deployment',
-     #             'org_id': 1000039376,
-     #             'owner': 'baptiste.blanc@tx.group',
+     #             'hash': 'somehash',
+     #             'name': 'Agent deployment',
+     #             'org_id': 123445,
+     #             'owner': 'email@example.com',
      #             'revoked': False
      #         }, {...}
      #     ]
